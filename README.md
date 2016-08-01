@@ -1,0 +1,2 @@
+# finnbot
+Polski odpowiednik Nadeko
