@@ -83,9 +83,9 @@ Komenda | Działanie | Sposób użycia
 `-s`  |  Specjalna komenda | -s
 `@BotName siema xD`, `<@!209230749725884417> siema xD`  |  Siema XDDDDDDDDDDDD | @Finn siema xD
 `@BotName Kenex`, `<@!209230749725884417> Kenex`  |  Kto to Kenex? | @Finn Kenex
-`@BotName jesteś tam?`, `<@!209230749725884417> jesteś tam?`  |  Sprawdź, czy Finn nie umarł. | %mention% jesteś tam?
-`@BotName jesteś gdzieś indziej?`, `<@!209230749725884417> jesteś gdzieś indziej?`  |  Sprawdź, czy Finn jest gdzieś indziej! | %mention% jesteś gdzieś indziej?
-`@BotName 69`, `<@!209230749725884417> 69`  |  ( ͡° ͜ʖ ͡°) | %mention% 69
+`@BotName jesteś tam?`, `<@!209230749725884417> jesteś tam?`  |  Sprawdź, czy Finn nie umarł. | @Finn jesteś tam?
+`@BotName jesteś gdzieś indziej?`, `<@!209230749725884417> jesteś gdzieś indziej?`  |  Sprawdź, czy Finn jest gdzieś indziej! | @Finn jesteś gdzieś indziej?
+`@BotName 69`, `<@!209230749725884417> 69`  |  ( ͡° ͜ʖ ͡°)@Finnon% 69
 `.info`  |  Informacje o bocie, itp. | .info
-`@BotName dziewczyna`, `<@!209230749725884417> dziewczyna`  |  Pokazuje obrazek dziewczyny. | %mention% dziewczyna
+`@BotName dziewczyna`, `<@!209230749725884417> dziewczyna`  |  Pokazuje obrazek dziewczyny. | @Finn dziewczyna
 `-s teksty`  |  Losowy tekst od Kacpra3100. | -s teksty
