@@ -1,2 +1,3 @@
-# finnbot
-Polski odpowiednik Nadeko
+# FinnBot
+Polski odpowiednik Nadeko!
+### Wersja: 1.3 beta
