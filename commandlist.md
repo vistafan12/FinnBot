@@ -15,7 +15,7 @@ Komenda | Działanie | Sposób użycia
 `@BotName rip`  |  Wstawia obrazek z nagrobkiem wedle schematu "@BotName rip osoba rok_urodzenia". Osobą nie musi być użytkownik serwera. Można w tym miejscu wpisać np. "ziemniaki" (osoba nie może w nazwie mieć spacji). |  @Finn rip Cebula! 6969
 `@BotName uptime`  |  Sprawdza ile Finn jest on-line.
 `@BotName die`  |  Tylko dla właścicieli. Bot po wpisaniu tej komendy zostanie wyłączony.
-`@BotName do you love me`  |  Replies with positive answer only to the bot owner.
+`@BotName do you love me`  |  Spytaj się Finna, czy on cię kocha.
 `@BotName kim jesteś?`, `@BotName kim jesteś?`  |  Odpowiada pozytywnie tylko, gdy bot owner jest online.
 `@BotName fire`  |  Tworzy ogień Unicode. Za pomocą cyfry na końcu można ustawić, ile razy ma powtórzyć ogień. Dozwolone wartości między 0 i 12 |  @Finn fire 2
 `@BotName slm`  |  Pokazuje ostatnie rozmowy 
