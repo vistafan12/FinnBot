@@ -12,7 +12,7 @@ Komenda | Działanie | Sposób użycia
 `..`  |  Dodaj nowy cytat. Pierwszy wyraz do nazwa cytatu. Reszta to treść cytatu (bez ograniczeń). Tą samą nazwę może mieć wiele cytatów. Cytat może mieć więcej niż jedną linijkę. |  .. abc Cześć cwelu.
 `...`  |  Pokazuje cytat. |  .. abc
 `..qdel`, `..quotedelete`  |  Usuwa cytat |  `..qdel abc`
-`@BotName rip`  |  Wstawia obrazek z nagrobkiem wedle schematu "@BotName rip osoba rok_urodzenia". Osobą nie musi być użytkownik serwera. Można w tym miejscu wpisać np. "ziemniaki" (osoba nie może w nazwie mieć spacji). |  @NadekoBot rip Cebula! 6969
+`@BotName rip`  |  Wstawia obrazek z nagrobkiem wedle schematu "@BotName rip osoba rok_urodzenia". Osobą nie musi być użytkownik serwera. Można w tym miejscu wpisać np. "ziemniaki" (osoba nie może w nazwie mieć spacji). |  @Finn rip Cebula! 6969
 `@BotName uptime`  |  Sprawdza ile Finn jest on-line.
 `@BotName die`  |  Tylko dla właścicieli. Bot po wpisaniu tej komendy zostanie wyłączony.
 `@BotName do you love me`  |  Replies with positive answer only to the bot owner.
@@ -30,7 +30,7 @@ Komenda | Działanie | Sposób użycia
 `$give`  |  Zabiera kilka pokedolarów i daje userowi.
 `$award`  |  Dodaje pokedolary użytkownikowi **TYLKO WŁAŚCICIEL BOTA MOŻE WPISAĆ TĄ KOMENDĘ!** |  `$award 100 @AshKetchum50`
 `$take`  |  Zabiera Pokedolary użytkownikowi. **TYLKO WŁAŚCICIEL BOTA MOŻE WPISAĆ TĄ KOMENDĘ!** 
-`$leaderboard`, `$lb`  |  Pokazuje statystyki
+`$leaderboard`, `$lb`  |  Pokazuje statystyki wszystkich pokemonów (użytkowników) na serwerze.
 
 ### Gry 
 Komenda | Działanie | Sposób użycia
