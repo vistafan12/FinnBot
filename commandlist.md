@@ -73,10 +73,10 @@ Komenda | Działanie | Sposób użycia
 `pt`  |  Przeniesienie do np. innego kanału. | pt #placki
 `chodztudomniebracie`  |  Walka z bratem. | chodztudomniebracie @vistafan12
 `pikasiema`  |  Żart z "Siema xDDDDDDD" | pikasiema
-`@BotName przezwij`, `<@!209230749725884417> przezwij`  | Wiadomo, hejt na ciebie. | @vistafan12 przezwij
-`@BotName pochwal`, `<@!209230749725884417> pochwal`  |  Wiadomo, pochwalenie. | @vistafan12 pochwal
-`@BotName pogłaskaj`, `<@!209230749725884417> pogłaskaj`  |  Finn przesyła wesołego gifa. |  @vistafan12 pogłaskaj
-`@BotName smutek`, `<@!209230749725884417> smutek`  |  Finn wysyła smutnego gifa. | @vistafan12 smutek
+`@BotName przezwij`, `<@!209230749725884417> przezwij`  | Wiadomo, hejt na ciebie. | @Finn przezwij
+`@BotName pochwal`, `<@!209230749725884417> pochwal`  |  Wiadomo, pochwalenie. | @Finn  pochwal
+`@BotName pogłaskaj`, `<@!209230749725884417> pogłaskaj`  |  Finn przesyła wesołego gifa. |  @Finn pogłaskaj
+`@BotName smutek`, `<@!209230749725884417> smutek`  |  Finn wysyła smutnego gifa. | @Finn  smutek
 `@BotName, jesteś żywy?`, `<@!209230749725884417>, jesteś żywy?`  |  Spytaj się, czy Finn żyje | @Finn, jesteś żywy?
 `@BotName Siema xD`, `<@!209230749725884417> Siema xD`  |  Siema XDDDDDDDDDDDD | @Finn Siema xD
 `-s inne`  |  Inne komendy. | -s inne
