@@ -56,7 +56,7 @@ Komenda | Działanie | Sposób użycia
 Komenda | Działanie | Sposób użycia
 --------|-----------|--------------
 `>attack`  |  Atakuje użytkownika. | >attack "nuzzle" @vistafan12
-`>movelist`, `>ml`  |  Lista "Move" którą możesz wybrać do atakowania
+`>movelist`, `>ml`  |  Lista Ruchów którą możesz wybrać do atakowania przeciwnika.
 `>heal`  |  Uzdrawiająca komenda. Trzeba mieć 1 pokedolar aby ją użyć.  | >heal @AshKetchum50
 `>type`  |  Zobacz jaki użytkownik jest pokemonem. |  >type @AshKetchum50
 `>settype`  |  Ustawia typ pokemona. Potrzeba dużo pokedolarów. |  >settype walczący
