@@ -51,7 +51,7 @@ Komenda | Działanie | Sposób użycia
 `~e621`  |  Wyświetla losowy hentai ze strony e621 z podanymi tagami (opcjonalne). |  ~e621 yuri kissing
 `~cp`  |  	Wyświetla losowy obrazek z dziecięcą pornografią. Kusi, prawda? :)
 `~boobs`  |  Cycki!
-`~butts`, `~ass`, `~butt`  |  Poślatki!
+`~butts`, `~ass`, `~butt`  |  Pośladki! 
 ### Pokegra
 Komenda | Działanie | Sposób użycia
 --------|-----------|--------------
