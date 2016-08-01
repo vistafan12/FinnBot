@@ -16,7 +16,7 @@ Komenda | Działanie | Sposób użycia
 `@BotName uptime`  |  Sprawdza ile Finn jest on-line.
 `@BotName die`  |  Tylko dla właścicieli. Bot po wpisaniu tej komendy zostanie wyłączony.
 `@BotName do you love me`  |  Spytaj się Finna, czy on cię kocha.
-`@BotName kim jesteś?`, `@BotName kim jesteś?`  |  Odpowiada pozytywnie tylko, gdy bot owner jest online.
+`@BotName, how are you?`, `@BotName how are you?`  |  Odpowiada pozytywnie tylko, gdy bot owner jest online.
 `@BotName fire`  |  Tworzy ogień Unicode. Za pomocą cyfry na końcu można ustawić, ile razy ma powtórzyć ogień. Dozwolone wartości między 0 i 12 |  @Finn fire 2
 `@BotName slm`  |  Pokazuje ostatnie rozmowy 
 `@BotName ab`  |  Wpisuje 'abalabahaha'
