@@ -1,5 +1,5 @@
 #FinnBot - lista komend  
-Wersja: `1.3 beta`
+Wersja: `1.3_2 beta`
 ### Pomoc
 Komenda | Działanie | Sposób użycia
 --------|-----------|--------------
@@ -57,9 +57,9 @@ Komenda | Działanie | Sposób użycia
 --------|-----------|--------------
 `>attack`  |  Atakuje użytkownika. | >attack "nuzzle" @vistafan12
 `>movelist`, `>ml`  |  Lista Ruchów które możesz wybrać do atakowania przeciwnika.
-`>heal`  |  Uzdrawiająca komenda. Trzeba mieć 1 pokedolar aby ją użyć.  | >heal @AshKetchum50
-`>type`  |  Zobacz jaki użytkownik jest pokemonem. |  >type @AshKetchum50
-`>settype`  |  Ustawia typ pokemona. Potrzeba dużo pokedolarów. |  >settype walczący
+`>heal`  |  Uzdrawiająca komenda. Trzeba mieć 1 Pokedolar aby ją użyć.  | >heal @AshKetchum50
+`>type`  |  Zobacz jaki użytkownik jest Pokemonem. |  >type @AshKetchum50
+`>settype`  |  Ustawia typ pokemona. Potrzeba 1 Pokedolar. |  >settype walczący
 
 ### Translator  
 Komenda | Działanie | Sposób użycia
