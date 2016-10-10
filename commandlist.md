@@ -1,5 +1,5 @@
 #FinnBot - lista komend  
-Wersja: `1.3_2 beta`
+Wersja: `1.3_4 beta`
 ### Pomoc
 Komenda | Działanie | Sposób użycia
 --------|-----------|--------------
