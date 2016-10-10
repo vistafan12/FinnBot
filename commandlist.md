@@ -9,7 +9,7 @@ Komenda | Działanie | Sposób użycia
 ### Rozmowy  
 Komenda | Działanie | Sposób użycia
 --------|-----------|--------------
-`..`  |  Dodaj nowy cytat. Pierwszy wyraz do nazwa cytatu. Reszta to treść cytatu (bez ograniczeń). Tą samą nazwę może mieć wiele cytatów. Cytat może mieć więcej niż jedną linijkę. |  .. abc Cześć cwelu.
+`..`  |  Dodaj nowy cytat. Pierwszy wyraz to nazwa cytatu. Reszta to treść cytatu (bez ograniczeń). Tą samą nazwę może mieć wiele cytatów. Cytat może mieć więcej niż jedną linijkę. |  .. abc Cześć cwelu.
 `...`  |  Pokazuje cytat. |  .. abc
 `..qdel`, `..quotedelete`  |  Usuwa cytat |  `..qdel abc`
 `@BotName rip`  |  Wstawia obrazek z nagrobkiem wedle schematu "@BotName rip osoba rok_urodzenia". Osobą nie musi być użytkownik serwera. Można w tym miejscu wpisać np. "ziemniaki" (osoba nie może w nazwie mieć spacji). |  @Finn rip Cebula! 6969
