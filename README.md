@@ -1,5 +1,5 @@
-### FinnBot
-# Polski odpowiednik Nadeko!
+# FinnBot
+### Polski odpowiednik Nadeko!
 ![My image](http://i.imgur.com/WDaPtOA.png)
 ***
 
