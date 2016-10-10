@@ -1,6 +1,6 @@
 {
   "name": "FinnBot",
   "tagline": "Polski odpowiednik Nadeko!",
-  "body": "### Inne, ale ważne!\r\n![My image](http://i.imgur.com/WDaPtOA.png)\r\n***\r\n\r\n### Pełna lista komend: [Kliknij tutaj!](https://github.com/vistafan12/finnbot/blob/master/commandlit.md)\r\n### Backup (na wszelki wypadek - codziennie aktualizowany): [Kliknij tutaj!](https://github.com/vistafan12/FinnBot/tree/master/backup)",
+  "body": "# Inne, ale ważne!\r\n![My image](http://i.imgur.com/WDaPtOA.png)\r\n***\r\n\r\n### Pełna lista komend: [Kliknij tutaj!](https://github.com/vistafan12/finnbot/blob/master/commandlit.md)\r\n### Backup (na wszelki wypadek - codziennie aktualizowany): [Kliknij tutaj!](https://github.com/vistafan12/FinnBot/tree/master/backup)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
