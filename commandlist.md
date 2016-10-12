@@ -89,3 +89,9 @@ Komenda | Działanie | Sposób użycia
 `.info`  |  Informacje o bocie, itp. | .info
 `@BotName dziewczyna`, `<@!209230749725884417> dziewczyna`  |  Pokazuje obrazek dziewczyny. | @Finn dziewczyna
 `-s teksty`  |  Losowy tekst od Kacpra3100. | -s teksty
+
+### Fani BW134 (komendy tylko dla tego serwera - używanie tych komend poza tym serwerem grozi banem)
+Komenda | Działanie | Sposób użycia
+--------|-----------|--------------
+-s darwin | Darwin? Gumball? Finn? Psycho? Gawno? Siema xDDDDD? | `-s darwin` i jedziesz
+ale kubuś play to picie | ale kubuś play to picie | ale kubuś play to picie     
