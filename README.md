@@ -1,6 +1,6 @@
 # FinnBot
 ### Polski odpowiednik Nadeko!
-![My image](http://i.imgur.com/WDaPtOA.png)
+![Finn](http://i.imgur.com/4s1TTbA.png)
 ***
 
 ### Pełna lista komend: [Kliknij tutaj!](https://github.com/vistafan12/finnbot/blob/master/commandlit.md)
